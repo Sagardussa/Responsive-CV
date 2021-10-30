@@ -62,7 +62,8 @@ border-radius: 50px;
 
 .about{
     padding-top: 100px;
-    padding-bottom: 50px;
+    /* padding-bottom: 50px; */
+    margin-bottom: -130px;
 }
 .profile-img {
     height: 650px;
@@ -132,6 +133,7 @@ background: linear-gradient(90deg, rgb(63, 1, 1) 0%, rgb(14, 70, 70) 35%, rgb(10
 
      /* -------------------resume--------*/
 .resume {
+    margin-top: -50px;
     padding-top: 50px;
     padding-bottom: 30px;
     background: #f9f9f9;
@@ -306,10 +308,9 @@ background: transparent;
 .social-icons ul li:hover{
     padding-left: 30px;
     width: 80px;
-    transition: 0.8s;
-
-
+    transition: 0.9s;
 }
+
 
 
 
